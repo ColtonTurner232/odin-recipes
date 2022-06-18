@@ -3,12 +3,17 @@
     color: white;
 }
 
-button {
+#links {
+    padding: 50px;
+    text-align: center;
+}
+
+a {
     color: red;
-    padding: 10px 15px;
 }
 
 h1 {
+    font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     text-align: center;
